@@ -1,8 +1,8 @@
 # :notebook: PA4 - DATA WRANGLING AND DATA VISUALIZATION
 
 ## ECE BOARD EXAM PROBLEM:
-Using data wrangling and data visualization technique with
-storytelling, analyze the data and present different (i) data frames; and (ii) visuals using the dataset given.
+**Using data wrangling and data visualization technique with
+storytelling, analyze the data and present different (i) data frames; and (ii) visuals using the dataset given.**
 
 ```python
 import pandas as pd
@@ -16,8 +16,8 @@ df
 
 ---
 
-1. Create the following data frames based on the format provided:
-Example: Vis = [“Name”, “Gender”, “Track”, “Math<70”]; hometown is constant as Visayas
+**1. Create the following data frames based on the format provided:
+Example: Vis = [“Name”, “Gender”, “Track”, “Math<70”]; hometown is constant as Visayas**
 
 ![image](https://github.com/annoyinglyghost/Images-2-/blob/main/pa4%201.png)
 
@@ -38,8 +38,8 @@ Vis
 
 ----
 
-a. Filename: Instru = [“Name”, “GEAS”, “Electronics >70”]; where track is constant as
-Instrumentation and hometown Luzon
+**a. Filename: Instru = [“Name”, “GEAS”, “Electronics >70”]; where track is constant as
+Instrumentation and hometown Luzon**
 
 🌱 Input:
 ```python
@@ -58,8 +58,8 @@ Instru
 
 ---
 
-b. Filename: Mindy = [ “Name”, “Track”, “Electronics”, “Average >=55”]; where hometown is
-constant as Mindanao and gender Female
+**b. Filename: Mindy = [ “Name”, “Track”, “Electronics”, “Average >=55”]; where hometown is
+constant as Mindanao and gender Female**
 
 🌱 Input:
 ```python
@@ -84,8 +84,8 @@ Mindy
 
 ---
 
-2. Create a visualization that shows how the different features contributes to average grade. Does
-chosen track in college, gender, or hometown contributes to a higher average score?
+**2. Create a visualization that shows how the different features contributes to average grade. Does
+chosen track in college, gender, or hometown contributes to a higher average score?**
 
 🌱 Input:
 ```python
