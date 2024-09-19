@@ -1,1 +1,3 @@
-# SAMAR_Programming-Assignment-4
+# :notebook: PA2 - Numerical Python
+
+## ECE BOARD EXAM PROBLEM:
